@@ -1,0 +1,97 @@
+td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px}
+.tabtitle {  font-weight: bold; background-color: #cccccc}
+.gbg { background-color:#CBE4E4}
+.lgbg { background-color: #F3F3F3}
+.tbg { background-color: #E4E4E4 }
+a:visited { font-size: 11px; font-weight: bold; text-decoration: underline ; color: #008888}
+a:link { font-size: 11px; font-weight: bold; text-decoration: underline ; color: #008888}
+a:hover { font-size: 11px; font-weight: bold; text-decoration: none; color: #000000}
+a:active {  font-size: 11px; font-weight: bold; text-decoration: underline; color: #008888}
+
+a.email:visited { font-size: 10px; text-decoration: underline ; color: #008888}
+a.email:link { font-size: 10px; text-decoration: underline ; color: #008888}
+a.email:hover { font-size: 10px; text-decoration: none; color: #000000}
+a.email:active {  font-size: 10px; text-decoration: underline; color: #008888}
+.title {  font-size: 15px; font-weight: bold; color: #336666; font-family: Verdana, Arial, Helvetica, sans-serif; background-color: #CCCCCC; height: 30px; text-align: center}
+.term {
+	font-weight: bold;
+	color: #993300;
+	background-color: #FFe6cc;
+	height: 18px;
+	;
+	text-align: center;
+	font-size: 12px;
+}
+.terms { font-weight: bold; background-color: #FCEDE0}
+.term10 { font-weight: bold; color: #336666; background-color: #BDEAEA; font-size: 11px; text-align: center}
+.border {  background-color: #CCCCCC}
+.titles { font-size: 14px; font-weight: bold; color: #508D8D; font-family: Verdana, Arial, Helvetica, sans-serif; background-color: #DFF4F4; height: 22px ; text-align: center}
+.border2 { background-color: #CCCCCC}
+.path { font-weight: bold; background-color:#BFE6F2; font-size: 12px; height: 25px ; text-align: center}
+.umesh {
+	font-family: Verdana;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 18px;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #00CC99;
+	background-color: #cccccc;
+}
+.jeetesh {
+	font-family: Verdana;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 18px;
+	font-variant: normal;
+	text-transform: none;	
+	background-color: #CCCCCC;
+}
+.maintaxt {
+	background-color: #E2F0FE;
+	word-spacing: normal;
+}
+.maintaxt {
+	font-family: Verdana;
+	font-size: 12px;
+}
+.mainnew {
+	font-family: Verdana;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 18px;
+}
+.paragraph {
+	font-family: Verdana;
+	font-size: 12px;
+	line-height: 19px;
+	color:#006666;
+	font-weight:normal
+}
+.deptpara {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 18px;
+	font-weight: bold;
+	color: #294EF5;
+	background-color: #F2F2FF;
+	background-position: center center;
+	text-align: center;
+}
+.forrajkotpage {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 17px;
+	color: #000000;
+	text-align: justify;
+	vertical-align: middle;
+	height: auto;
+}
+.style1{color:#006666}
+
+div.procedure, div.welcomehelp, div.welcomehowdoi {
+	display:none;
+}
